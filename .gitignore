@@ -72,3 +72,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Compiled
+WindowsNoEditor/*
+
+# Ansel plugin can be rebuilt
+Plugins/Nvidia/FSDAnsel/Intermediate/**
+Plugins/Nvidia/FSDAnsel/Binaries/**
+Plugins/Modio/**
